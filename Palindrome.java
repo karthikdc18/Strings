@@ -7,6 +7,7 @@ public class Palindrome {
 String s = "malayalam";
 		
 		
+		//without the use of the methods we have die=ne the reversing just by using for loop
 		
 		int len= s.length();
 		
